@@ -2,12 +2,12 @@
   <img src="Shreya Agrawal.png" alt="Shreya Agrawal Banner" width="100%">
 </p>
 
-# 📍 Shreya Agrawal
+# Shreya Agrawal
 **Senior SDET | Quality Lead | San Francisco Bay Area**
 
 ---
 
-### 🖋️ Strategic Ethos
+### ⚖️ Strategic Ethos
 I specialize in architecting resilient quality systems that act as a force multiplier for engineering organizations. With a decade of experience in the SDET space, my approach is rooted in technical precision and a grounded, human-centric leadership style. 
 
 ---
