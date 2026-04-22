@@ -12,8 +12,8 @@ I am a Software Development Engineer in Test with a decade of experience navigat
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AI-Native](https://img.shields.io/badge/AI--Native-Workflow-blueviolet?style=for-the-badge)
+![RestAssured](https://img.shields.io/badge/RestAssured-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AI-Native](https://img.shields.io/badge/AI-Native-Workflow-blueviolet?style=for-the-badge)
 
 ---
 
