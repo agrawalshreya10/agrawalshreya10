@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Shreya Agrawal.jpg" alt="Shreya Agrawal Banner" width="100%">
+  <img src="Shreya Agrawal.png" alt="Shreya Agrawal Banner" width="100%">
 </p>
 
 # 📍 Shreya Agrawal
