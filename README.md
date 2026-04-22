@@ -12,14 +12,6 @@ I specialize in architecting resilient quality systems that act as a force multi
 
 ---
 
-### 🤝 Community & Collaboration
-Beyond internal architecture, I am an active advocate in the quality engineering space. I focus on:
-* **Industry Discourse:** Engaging in outside-work collaborations and technical meetups to push the boundaries of automation.
-* **Knowledge Exchange:** Mentoring peers and contributing to the evolving dialogue around Strategic Quality and AI-native workflows.
-* **Collective Growth:** Partnering with industry leaders to refine testing standards for the modern tech landscape.
-
----
-
 ### 🛠️ Core Expertise
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -32,6 +24,14 @@ Beyond internal architecture, I am an active advocate in the quality engineering
 ### 🔭 Current Horizon
 * **Autonomous-Quality-Engine:** Developing an AI-driven framework for self-healing test suites and intelligent failure analysis.
 * **Agentic Workflows:** Exploring how LLM agents can revolutionize traditional CI/CD feedback loops.
+
+---
+
+### 🤝 Community & Collaboration
+Beyond internal architecture, I am an active advocate in the quality engineering space. I focus on:
+* **Industry Discourse:** Engaging in outside-work collaborations and technical meetups to push the boundaries of automation.
+* **Knowledge Exchange:** Mentoring peers and contributing to the evolving dialogue around Strategic Quality and AI-native workflows.
+* **Collective Growth:** Partnering with industry leaders to refine testing standards for the modern tech landscape.
 
 ---
 
