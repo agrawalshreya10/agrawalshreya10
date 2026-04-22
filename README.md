@@ -3,7 +3,7 @@
 </p>
 
 # 📍 Shreya Agrawal
-**Quality Architect | SDET Lead | San Francisco Bay Area**
+**Senior SDET | Quality Lead | San Francisco Bay Area**
 
 ---
 
