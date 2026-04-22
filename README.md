@@ -2,8 +2,8 @@
   <img src="Shreya Agrawal.png" alt="Shreya Agrawal Banner" width="100%">
 </p>
 
-# Shreya Agrawal
-**Senior SDET | Quality Lead | San Francisco Bay Area**
+# > Senior SDET & Quality Strategist
+**Test Engineering | AI-Integrated Workflows | San Francisco Bay Area**
 
 ---
 
